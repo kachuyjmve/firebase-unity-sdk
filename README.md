@@ -137,8 +137,7 @@ a way to validate those changes on GitHub. Please read our
 
 ## License
 
-The contents of this repository is licensed under the
-[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+T
 
 Your use of Firebase is governed by the
-[Terms of Service for Firebase Services](https://firebase.google.com/terms/).
+(https://firebase.google.com/terms/).
